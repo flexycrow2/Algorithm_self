@@ -5,6 +5,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         String id;
         id = in.nextLine();
-        System.out.println(id + "??!");
+        String last = "??!";
+        System.out.println(id + last);
     }
 }
